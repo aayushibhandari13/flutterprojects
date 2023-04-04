@@ -6,10 +6,10 @@ void main() {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Center(child: Text('Hi! ITS KANISHKA NEGI')),
-          backgroundColor: Colors.pink[900],
+          title: Center(child: Text('Hi! ITS AAYUSHI BHANDARI')),
+          backgroundColor: Colors.red[800],
         ),
-        backgroundColor: Colors.cyanAccent,
+        backgroundColor: Colors.purpleAccent,
         body: Center(
             child: Image.network('https://pixabay.com/images/search/flowers/')
         ),
